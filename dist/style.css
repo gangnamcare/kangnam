@@ -7,4 +7,4 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
 @media(min-width:981px){.hero-image{object-position:center 28%}}
 @media(max-width:640px){body:has(.field input:focus) .mobile-actions,body:has(textarea:focus) .mobile-actions{display:none}}
-
+.company div{max-width:100%;min-width:0}.company dt{flex-shrink:0}.company dd,.contact-aside dd{min-width:0;overflow-wrap:anywhere}.company a:hover,.contact-aside dd a:hover{text-decoration:underline}
